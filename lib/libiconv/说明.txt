@@ -1,0 +1,1 @@
+iconv库如果要编译windows系统下的库，因为没有找到cmake的项目，下载了现成的lib库在iconv-1.9.2.win32.zip中。源码在libicon-1.15.tar.gz里
